@@ -39,7 +39,7 @@ A lightweight Gradio web app to remove the background of any image and replace i
   Export your result as a transparent-background PNG that you can immediately drop into Word, PowerPoint, or any design tool.
 
 <p align="center">
-  <img src="assets/demo.png" alt="Demo Screenshot" width="600">
+  <img src="demo.png" alt="Demo Screenshot" width="600">
 </p>
 
 ---
